@@ -23,7 +23,7 @@ namespace GestorEventos.WebAdmin.Controllers
 			return View();
 		}
 
-        public IActionResult Test()
+        public IActionResult Login()
         {
             return View();
 
